@@ -10,6 +10,6 @@ def toadstool
 end
 
 def link
-  pharse = "It's To Go Alone! Take This."
+  pharse = "It's Dangerous To Go Alone! Take This."
   puts pharse
 end 

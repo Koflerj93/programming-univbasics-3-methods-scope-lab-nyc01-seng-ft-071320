@@ -11,4 +11,5 @@ end
 
 def link
   pharse = "It's To Go Alone! Take This."
+  puts pharse
 end 
